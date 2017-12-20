@@ -1,0 +1,24 @@
+{
+  "name": "koa2-proxies",
+  "version": "1.0.0",
+  "description": "koa2 middlware for the http proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proxy",
+    "koa2",
+    "middlware"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hpoenixf/koa2-proxies.git"
+  },
+  "author": "hpoenixf",
+  "license": "ISC",
+  "dependencies": {
+    "koa2": "^2.0.0-alpha.7",
+    "request": "^2.83.0"
+  }
+}
