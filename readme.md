@@ -1,6 +1,7 @@
 ### koa2 proxies
-[![npm](https://img.shields.io/npm/dy/localeval.svg)]()
-
+[![npm](https://img.shields.io/npm/dt/koa2-proxies.svg)]()
+[![GitHub issues](https://img.shields.io/github/issues/hpoenixf/koa2-proxies.svg)](https://github.com/hpoenixf/koa2-proxies/issues)
+[![GitHub license](https://img.shields.io/github/license/hpoenixf/koa2-proxies.svg)](https://github.com/hpoenixf/koa2-proxies/blob/master/LICENSE)
 Powered by [request](https://github.com/request/request)
 基于request的用于koa2的代理中间件
 npm install koa2-proxies
