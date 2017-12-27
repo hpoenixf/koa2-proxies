@@ -1,4 +1,3 @@
-'use strict';
 var join = require('url').resolve;
 var Request = require('request');
 
@@ -38,7 +37,6 @@ function getParsedBody(ctx){
     return undefined;
   }
   let bodystr = ''
-
   if (!Buffer.isBuffer(body) && typeof body !== 'string'){
     for(let i in body) {
       bodystr += `${i}=${body[i]}&`

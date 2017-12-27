@@ -1,4 +1,5 @@
 ### koa2 proxies
+[![npm](https://img.shields.io/npm/dy/localeval.svg)]()
 
 Powered by [request](https://github.com/request/request)
 基于request的用于koa2的代理中间件
